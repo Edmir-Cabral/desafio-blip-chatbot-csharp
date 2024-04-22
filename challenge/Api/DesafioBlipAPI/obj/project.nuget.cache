@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xejDm4+VFFrx3QnygQq1KEx6qyo13FNZN+1BtV3DOUfibFDrn7UIhmXHwjXHyYAfskPtdSOOu/up59vqDRITbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edi_c\\Documents\\DesafioBlipAPI\\challenge\\Api\\DesafioBlipAPI\\DesafioBlipAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edi_c\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\edi_c\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\edi_c\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\edi_c\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\edi_c\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+    "C:\\Users\\edi_c\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

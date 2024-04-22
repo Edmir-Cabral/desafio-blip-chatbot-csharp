@@ -1,0 +1,6 @@
+@DesafioBlipAPI_HostAddress = http://localhost:5149
+
+GET {{DesafioBlipAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
